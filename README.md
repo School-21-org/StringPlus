@@ -148,6 +148,6 @@ where:
 - after report is generated go to src/report folder and open `index.html` file to see LCOV coverage
 
 <figure>
-<img src="misc/lcov.png" alt="lcov report" width="700"/>  
+<img src="misc/lcov.png" alt="lcov report" width="1000"/>  
 <figcaption>LCOV report</figcaption>
 </figure>
