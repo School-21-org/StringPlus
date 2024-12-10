@@ -2,16 +2,16 @@
 
 Implementation of the string.h library in the C programming language with some additions (with own implementation of the sprintf and sscanf functions). 
 
-
 ## Contents
-1. [Information](information)
-2. [Base types](#base-types)
-3. [Implemented string.h functions](#implemented-string.h-functions)
-4. [sprintf and sscanf](#sprintf-and-sscanf)
-5. [Specifications](#specifications)
-6. [Build](#build)
-7. [Unit tests](#unit-tests)
-8. [GCOV report](#gcov-report)
+
+1. [Base types](#base-types)
+2. [Implemented string.h functions](#implemented-functions)
+3. [sprintf and sscanf](#sprintf-and-sscanf)
+4. [Specifications](#specifications)
+5. [Build](#build)
+6. [Unit tests](#unit-tests)
+7. [LCOV report](#lcov-report)
+8. [Authors](#authors)
 
 ## Base types
 
@@ -27,7 +27,7 @@ Implementation of the string.h library in the C programming language with some a
 | ------ | ------ | ------ |
 | 1 | NULL | This macro is the value of a null pointer constant. |
 
-## Implemented string.h functions
+## Implemented functions
 
 ### string.h Functions
 
@@ -151,3 +151,12 @@ where:
 <img src="misc/lcov.png" alt="lcov report" width="1000"/>  
 <figcaption>LCOV report</figcaption>
 </figure>
+
+### Authors
+
+S21 nicknames:
+
+- donnapoc (Sviatoslav)
+- directpi (Igor)
+- rendailb (Matvey)
+- montoyay (Anton)
